@@ -1,5 +1,7 @@
 Программа переключения светодиода по нажатию на кнопку. В программе реализован антидребез кнопки через задержку построенную на millis()
 
-https://wokwi.com/projects/382203092711143425 
+Схема:
 
-https://www.tinkercad.com/things/c0WwMf9zat3-happy-bitthday-2?sharecode=XJGXPVo-mt5vIG-8kzwNmAs62Zx1-JAiEgTfANw7w7E 
+![switch_led_scheme](https://github.com/heorhii-ap/arduino_pet/assets/143074323/595b7cb4-0b8e-487b-bdd1-9ddec30481a5)
+
+https://wokwi.com/projects/382203092711143425
