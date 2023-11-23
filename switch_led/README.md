@@ -2,7 +2,7 @@
 
 **Схема:**
 
-<p align="center">
+<p align="left">
   <img width="500" src="https://github.com/heorhii-ap/arduino_pet/assets/143074323/595b7cb4-0b8e-487b-bdd1-9ddec30481a5">
 </p>
 
